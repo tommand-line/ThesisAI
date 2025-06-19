@@ -1,0 +1,8 @@
+llama-cpp-python
+sentence-transformers
+faiss-cpu
+light-embed
+fastembed
+pymupdf
+pymupdf4llm
+chromadb
